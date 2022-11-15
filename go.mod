@@ -1,3 +1,3 @@
-module github.com/kailash-Y/go/banking
+module github.com/Kailash-Y/go-banking
 
 go 1.19
